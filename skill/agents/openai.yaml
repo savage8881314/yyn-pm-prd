@@ -1,0 +1,7 @@
+interface:
+  display_name: "YYN PM PRD"
+  short_description: "Generate Chinese PRDs with prioritization, Mermaid diagrams, and version planning."
+  default_prompt: "Use $yyn-pm-prd to turn this idea into a Chinese PRD with P0/P1/P2 priorities and Mermaid diagrams."
+
+policy:
+  allow_implicit_invocation: true
